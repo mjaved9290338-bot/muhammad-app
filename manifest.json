@@ -1,7 +1,16 @@
 {
-  "asset_count": 12,
-  "built_at": "2026-10-19T16:16:47.491460804+00:00",
-  "content_sha256": "76ecf2defd96355b8f59362e857acc155e081be73236932560f776be881b7025",
-  "entrypoint": "index.html",
-  "format": "static-html-v1"
+  "name": "Muhammad — Video Editor & Web Developer",
+  "short_name": "Muhammad",
+  "description": "Muhammad ki freelancing app: website development, video editing, YouTube thumbnails aur tamam social links ek jagah.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0a10",
+  "theme_color": "#0b0a10",
+  "lang": "en",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
 }
