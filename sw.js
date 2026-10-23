@@ -1,5 +1,5 @@
 /* Muhammad App — service worker (GitHub Pages build) */
-var CACHE = 'muhammad-app-v2';
+var CACHE = 'muhammad-app-v3';
 var CORE = ['./', './index.html', './manifest.json', './icon.svg'];
 
 self.addEventListener('install', function (e) {

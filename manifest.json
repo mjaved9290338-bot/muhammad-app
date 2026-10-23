@@ -1,7 +1,7 @@
 {
-  "name": "Muhammad — Video Editor & Web Developer",
+  "name": "Muhammad — Graphic Designer & Web Developer",
   "short_name": "Muhammad",
-  "description": "Muhammad ki freelancing app: website development, video editing, YouTube thumbnails aur tamam social links ek jagah.",
+  "description": "Muhammad ki freelancing app: website design & development, graphic design (thumbnails, logos, social media) aur tamam social links ek jagah.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
